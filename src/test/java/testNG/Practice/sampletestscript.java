@@ -9,6 +9,7 @@ public class sampletestscript {
 		System.out.println("Hello");
 		
 		System.out.println("Hi");
+		System.out.println("Scheduling for poll scm");
 	}
 
 }
