@@ -7,6 +7,8 @@ public class sampletestscript {
 	public void sample()
 	{
 		System.out.println("Hello");
+		
+		System.out.println("Hi");
 	}
 
 }
